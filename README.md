@@ -40,7 +40,6 @@ Then:
 ```bash
 elaborate numpy
 elaborate flask --deps
-elaborate --help
 ```
 
 ## Options
