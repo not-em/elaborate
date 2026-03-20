@@ -49,5 +49,4 @@ elaborate --help
 |---|---|
 | `--deps` | show dependencies |
 | `--no-color` | disable colour output |
-| `--help` | show help message |
 
