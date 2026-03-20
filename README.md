@@ -7,8 +7,6 @@ elaborate pandas
 elaborate requests --deps
 ```
 
-No dependencies. Just Python.
-
 ## Example
 
 ```
@@ -37,7 +35,7 @@ $ elaborate flask
 uv tool install elaborate
 ```
 
-Then use it anywhere:
+Then:
 
 ```bash
 elaborate numpy
@@ -51,3 +49,5 @@ elaborate --help
 |---|---|
 | `--deps` | show dependencies |
 | `--no-color` | disable colour output |
+| `--help` | show help message |
+
