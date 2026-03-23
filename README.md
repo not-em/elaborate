@@ -1,5 +1,9 @@
 # elaborate
 
+[![PyPI version](https://img.shields.io/pypi/v/elaborate)](https://pypi.org/project/elaborate/)
+[![Python versions](https://img.shields.io/pypi/pyversions/elaborate)](https://pypi.org/project/elaborate/)
+[![License](https://img.shields.io/pypi/l/elaborate)](https://github.com/not-em/elaborate/blob/main/LICENSE)
+
 Look up a PyPI package without leaving the terminal.
 
 ```
